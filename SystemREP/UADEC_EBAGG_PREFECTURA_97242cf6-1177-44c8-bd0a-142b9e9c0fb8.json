@@ -1,7 +1,7 @@
 {
   "Id": "97242cf6-1177-44c8-bd0a-142b9e9c0fb8",
   "Client": "UADEC_EBAGG_PREFECTURA",
-  "Active": true,
+  "Active": false,
   "Expires": "2100-01-01",
   "KeyVersion": "v1",
   "Data": "97242cf6-1177-44c8-bd0a-142b9e9c0fb8|UADEC_EBAGG_PREFECTURA|True|2100-01-01|v1",
